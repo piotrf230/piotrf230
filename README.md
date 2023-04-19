@@ -1,11 +1,13 @@
-### Hi there 👋
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=piotrf230&count_private=true&show_icons=true&theme=gruvbox" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrf230&layout=compact&theme=gruvbox&langs_count=8" />
+# Hi there 👋
+<!--<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=piotrf230&count_private=true&show_icons=true&theme=gruvbox" />-->
 
 - 🔭 I’m currently working on a group multiplatform MAUI project regarding face recognition and TCP connection, a small Python game using Pygame and a hobby Unity game project.
 - 🌱 I’m currently learning ASP.NET, Entity Framework, React.js and Pygame  
 
-## Languages and Tools:  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrf230&layout=compact&theme=gruvbox&langs_count=8" />
+<div width="47%" align="right">
+<h2> Languages, Frameworks and Tools<h2>
+
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -31,7 +33,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
+</div>
 <!--
 **piotrf230/piotrf230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
