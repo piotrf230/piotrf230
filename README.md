@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently working on a group multiplatform MAUI project regarding face recognition and TCP connection, a small Python game using Pygame and a hobby Unity game project.
-- 🌱 I’m currently learning ASP.NET, Entity Framework, React.js and Pygame  
+- 🌱 I’m currently learning ASP.NET, Entity Framework and React.js    
 
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=piotrf230&count_private=true&show_icons=true&theme=gruvbox" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrf230&layout=compact&theme=gruvbox&langs_count=8" />
