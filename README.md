@@ -1,44 +1,37 @@
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=piotrf230&count_private=true&show_icons=true&theme=gruvbox" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrf230&layout=compact&theme=gruvbox&langs_count=8" />
+## Github Stats
 
-## Languages, Frameworks and Tools
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piotrf230&layout=compact&theme=gruvbox&langs_count=8" />
 
-<!--![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)-->
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## About me
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
+I'm Piotr, a programmer from Poland. I studied Applied computer science, currently finishing my degree. I also have professional experience with creating ERP systems. In my free time I like to pursue my passion for game development and game design. I cook well too.
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## Languages, Frameworks and Tools <img src="https://skillicons.dev/icons?i=git" />
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+### Related to my studies
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+My studies included implementing various numerical methods and learning good code pracices in languages such as C, C++, and Fortran. Here I also got familiar with ASP.NET API creation and integration of Microsoft Azure. I learned to make desktop apps using Microsoft WPF, UWP and MAUI, as well as web fronts with Vue and React. I also got familiar with design templates and databases. (Both relational and non-relational.)
 
-<!--
-**piotrf230/piotrf230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The example projects related to my studies are [C++ Expression templates](https://github.com/piotrf230/cpp-expr-templates), [Langton's Ant](https://github.com/piotrf230/langtons-ant) and [Lanczos Algorithm implementation](https://github.com/piotrf230/lanczos-algorithm)
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,fortran,python,js,ts,vue,react,tailwind,windows" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Related to my thesis
+
+My engineering thesis includes laying fundations for a Blazor web app, which allows users to manage and mass deploy docker containers on the server. The fundamental features include creation of images with dockerfile support, creation, mass creation, running, stopping and deletion of containers, and provides basic container stats, gives access to container logs and allows the user to execute commands in the container. On top of that, the app is styled with Tailwind and Flowbite to ensure good visuals that are not to flashy for people more accustomed to terminal.
+
+<img src="https://skillicons.dev/icons?i=cs,tailwind,docker" />
+
+### Related to my professional experience
+
+I worked as a Junior Python Programmer for a year, creating ERP systems in Python, Django and Django Rest Framework. My duties included writing tests, debugging and implementing new features.
+
+<img src="https://skillicons.dev/icons?i=python,django,postgres,docker" />
+
+### Related to hobbies
+
+I always was passionate about videogames with a dream of making some of my own. this is the reason I learned both Unity and Godot game engines. I'm familiar with Unity up to 6.0 (latest LTS for the moment of writing) and it's newest features such as UI Toolkit and Input System. I'm also familiar with Godot and can create games both in GDScript, as well as C#, and know the basic principles of shaders.
+
+My games are available on [my Itch.io page](https://piotrf230.itch.io/).
+
+<img src="https://skillicons.dev/icons?i=cs,unity,godot" />
