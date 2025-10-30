@@ -6,7 +6,9 @@
 
 I'm Piotr, a programmer from Poland. I studied Applied computer science, currently finishing my degree. I also have professional experience with creating ERP systems. In my free time I like to pursue my passion for game development and game design. I cook well too.
 
-## Languages, Frameworks and Tools <img src="https://skillicons.dev/icons?i=git" />
+## Languages, Frameworks and Tools
+
+<img src="https://skillicons.dev/icons?i=git,vscode" />
 
 ### Related to my studies
 
